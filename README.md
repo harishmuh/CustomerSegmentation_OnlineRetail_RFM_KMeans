@@ -17,11 +17,20 @@ In this competitive online retail landscape, understanding customer diversity an
 Based on the identified problem, an online retail company based in the United Kingdom aims to implement a data-driven approach to customer segmentation. The goal is to develop a segmentation model that categorizes customers into distinct groups based on their purchasing behavior, frequency of transactions, and monetary value. The segmentation will be based on RFM (Recency, Frequency, Monetary) analysis and unsupervised machine learning techniques such as K-means clustering to ensure that each customer segment is accurately identified and targeted.
 
 ## Results
+
+![image](https://github.com/harishmuh/CustomerSegmentation_OnlineRetail_RFM_KMeans/blob/main/total%20product%20sold.PNG?raw=true)
+
+![image](https://github.com/harishmuh/CustomerSegmentation_OnlineRetail_RFM_KMeans/blob/main/total%20revenue%20overtime.PNG?raw=true)
+
 ![image](https://github.com/harishmuh/CustomerSegmentation_OnlineRetail_RFM_KMeans/blob/main/RFM%20quantiles.PNG?raw=true)
 
 ![image](https://github.com/harishmuh/CustomerSegmentation_OnlineRetail_RFM_KMeans/blob/main/RFM%20customer%20segmentation.PNG?raw=true)
 
 ![image](https://github.com/harishmuh/CustomerSegmentation_OnlineRetail_RFM_KMeans/blob/main/elbow%20method%20silhoutte%20score.PNG?raw=true)
+
+![image](https://github.com/harishmuh/CustomerSegmentation_OnlineRetail_RFM_KMeans/blob/main/optimal%20cluster%20davies%20bouldin.PNG?raw=true)
+
+![image](https://github.com/harishmuh/CustomerSegmentation_OnlineRetail_RFM_KMeans/blob/main/tsne%20visualization%20snake%20plot.PNG?raw=true)
 
 
 ![image](https://github.com/harishmuh/CustomerSegmentation_OnlineRetail_RFM_KMeans/blob/main/cluster%20evaluation.PNG?raw=true)
