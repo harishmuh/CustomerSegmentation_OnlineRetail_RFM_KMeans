@@ -1,4 +1,4 @@
-
+('https://github.com/harishmuh/CustomerSegmentation_OnlineRetail_RFM_KMeans/blob/main/customer%20segmentation.PNG?raw=true')
 # Context
 ## Customer-centric Online retail
 Online retail or e-commerce refers to the process of buying and selling consumer goods or services over the Internet to earn profit. Unlike traditional retail, online retail businesses have access to vast amounts of data including 
