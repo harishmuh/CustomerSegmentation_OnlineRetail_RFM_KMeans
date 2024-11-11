@@ -2,19 +2,15 @@
 
 # Customer Segmentation of Online Retail by Using RFM Analysis (Recency, Frequency, and Monetary Value) and K-Means Clustering
 ## Context
-### Customer-centric Online retail
-Online retail or e-commerce refers to the process of buying and selling consumer goods or services over the Internet to earn profit. Unlike traditional retail, online retail businesses have access to vast amounts of data including 
-purchase history, transactional data, demographic information, etc. Online retailers operate in a highly competitive environment, where understanding customer behavior is crucial for sustaining growth and profitability.
-Customer-centric strategy can be the way to win the competition because Understanding customers’ needs, perceptions,  and expectations is crucial for stronger customer relationships & better business outcomes. 
-
+ 
 ### Customer segmentation
 Customer Segmentation is crucial for online retail because it allows businesses to understand and cater to the diverse needs of their customers. By grouping customers based on their behavior, such as purchasing frequency, recent buying activity (recency), and spending amount(Monetary), retailers can create targeted marketing strategies that resonate with specific segments. This personalized approach not only improves customer satisfaction but also increases sales and customer retention, as it ensures that the right products and offers are presented to the right customers at the right time. Additionally, segmentation helps retailers operate their marketing costs efficiently as each customer segment typically incurs a different marketing cost.
 
-## Data Source
-The dataset was obtained from a scientific research paper by [Daqing et.all, 2012](https://link.springer.com/article/10.1057/dbm.2012.17) and attached to the UC Irvine Machine Learning Repository [link](https://archive.ics.uci.edu/dataset/352/online+retail)
-
 ## Problem statement
 In this competitive online retail landscape, understanding customer diversity and tailoring marketing strategies to different customer segments is a critical challenge. Businesses must be able to identify and prioritize high-value customers while also re-engaging at-risk or lost customers. Without effective segmentation, marketing efforts can become inefficient, leading to wasted resources and missed opportunities to enhance customer loyalty and increase revenue. The ability to perform customer segmentation allows businesses to allocate marketing resources more effectively, optimize promotional strategies, and deliver personalized experiences that resonate with each customer group.
+
+## Data Source
+The dataset was obtained from a scientific research paper by [Daqing et.all, 2012](https://link.springer.com/article/10.1057/dbm.2012.17) and attached to the UC Irvine Machine Learning Repository [link](https://archive.ics.uci.edu/dataset/352/online+retail)
 
 ## Goals
 Based on the identified problem, an online retail company based in the United Kingdom aims to implement a data-driven approach to customer segmentation. The goal is to develop a segmentation model that categorizes customers into distinct groups based on their purchasing behavior, frequency of transactions, and monetary value. The segmentation will be based on RFM (Recency, Frequency, Monetary) analysis and unsupervised machine learning techniques such as K-means clustering to ensure that each customer segment is accurately identified and targeted.
@@ -72,3 +68,7 @@ Based on the identified problem, an online retail company based in the United Ki
 * Personalized Communication: Send personalized thank-you notes, anniversary emails, or birthday discounts to strengthen the relationship.
 * Exclusive Offers: Offer them access to limited-edition products or invite them to special events.
 * Referral Programs: Encourage them to refer friends and family by offering rewards for successful referrals.
+
+## Assets
+* [Presentation (PDF)](https://github.com/harishmuh/CustomerSegmentation_OnlineRetail_RFM_KMeans/blob/main/Customer%20segmentation%20of%20UK-based%20online%20retails.pdf)
+
