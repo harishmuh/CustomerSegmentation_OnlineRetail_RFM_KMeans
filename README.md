@@ -71,4 +71,4 @@ Based on the identified problem, an online retail company based in the United Ki
 
 ## Assets
 * [Presentation (PDF)](https://github.com/harishmuh/CustomerSegmentation_OnlineRetail_RFM_KMeans/blob/main/Customer%20segmentation%20of%20UK-based%20online%20retails.pdf)
-
+* [Notebook](https://github.com/harishmuh/CustomerSegmentation_OnlineRetail_RFM_KMeans/blob/main/customer_segmentation_online_retail.ipynb)
