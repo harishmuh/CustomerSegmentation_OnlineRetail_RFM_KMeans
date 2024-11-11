@@ -1,6 +1,6 @@
 ![banner](https://github.com/harishmuh/CustomerSegmentation_OnlineRetail_RFM_KMeans/blob/main/customer%20segmentation.PNG?raw=true)
 
-# Customer Segmentation of Online Retail by Using RFM Analysis and K-Means Clustering
+# Customer Segmentation of Online Retail by Using RFM Analysis (Recency, Frequency, and Monetary Value) and K-Means Clustering
 ## Context
 ### Customer-centric Online retail
 Online retail or e-commerce refers to the process of buying and selling consumer goods or services over the Internet to earn profit. Unlike traditional retail, online retail businesses have access to vast amounts of data including 
@@ -8,7 +8,7 @@ purchase history, transactional data, demographic information, etc. Online retai
 Customer-centric strategy can be the way to win the competition because Understanding customers’ needs, perceptions,  and expectations is crucial for stronger customer relationships & better business outcomes. 
 
 ### Customer segmentation
-Customer Segmentation is crucial for online retail because it allows businesses to understand and cater to the diverse needs of their customers. By grouping customers based on their behavior, such as purchasing frequency, recent activity, and spending amount, retailers can create targeted marketing strategies that resonate with specific segments. This personalized approach not only improves customer satisfaction but also increases sales and customer retention, as it ensures that the right products and offers are presented to the right customers at the right time. Additionally, segmentation helps retailers operate their marketing costs efficiently as each customer segment typically incurs a different marketing cost.
+Customer Segmentation is crucial for online retail because it allows businesses to understand and cater to the diverse needs of their customers. By grouping customers based on their behavior, such as purchasing frequency, recent buying activity (recency), and spending amount(Monetary), retailers can create targeted marketing strategies that resonate with specific segments. This personalized approach not only improves customer satisfaction but also increases sales and customer retention, as it ensures that the right products and offers are presented to the right customers at the right time. Additionally, segmentation helps retailers operate their marketing costs efficiently as each customer segment typically incurs a different marketing cost.
 
 ## Problem statement
 In this competitive online retail landscape, understanding customer diversity and tailoring marketing strategies to different customer segments is a critical challenge. Businesses must be able to identify and prioritize high-value customers while also re-engaging at-risk or lost customers. Without effective segmentation, marketing efforts can become inefficient, leading to wasted resources and missed opportunities to enhance customer loyalty and increase revenue. The ability to perform customer segmentation allows businesses to allocate marketing resources more effectively, optimize promotional strategies, and deliver personalized experiences that resonate with each customer group.
